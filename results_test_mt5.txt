@@ -1,0 +1,162 @@
+Job started on bc13u30n1 at Tue Apr 21 04:25:50 PM CDT 2026
+Tue Apr 21 16:25:50 2026       
++---------------------------------------------------------------------------------------+
+| NVIDIA-SMI 535.230.02             Driver Version: 535.230.02   CUDA Version: 12.2     |
+|-----------------------------------------+----------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |
+|                                         |                      |               MIG M. |
+|=========================================+======================+======================|
+|   0  NVIDIA A40                     On  | 00000000:17:00.0 Off |                    0 |
+|  0%   25C    P8              23W / 300W |      0MiB / 46068MiB |      0%      Default |
+|                                         |                      |                  N/A |
++-----------------------------------------+----------------------+----------------------+
+                                                                                         
++---------------------------------------------------------------------------------------+
+| Processes:                                                                            |
+|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |
+|        ID   ID                                                             Usage      |
+|=======================================================================================|
+|  No running processes found                                                           |
++---------------------------------------------------------------------------------------+
+Checking scratch directory...
+Python: /scratch/sd205/comp584/t2m-env/bin/python
+PyTorch: 2.6.0+cu124
+CUDA available: True
+Pointer Pointing at 0
+Reading checkpoints/t2m/Comp_v6_KLD005/opt.txt
+Loading Evaluation Model Wrapper (Epoch 28) Completed!!
+Loading best checkpoint from ./output_GPT_Final/mt5_t2m/net_last.pth
+Loaded mT5 encoder weights
+
+============================================================
+EVALUATING ON TEST SET
+============================================================
+
+
+--- Run 1/5 ---
+2026-04-21 16:30:27,210 INFO -->         Eva. Iter 0 :, FID. 0.1861, &Diversity Real. 9.8623, Diversity. 10.4082, R_precision_real. [0.52269345 0.20907738 0.10863095], R_precision. [0.46875    0.2094494  0.10565476], matching_score_real. 2.6375, matching_score_pred. 2.9145
+2026-04-21 16:30:27,210 INFO -->         FID Improved from 1000.00000 to 0.18614 !!!
+2026-04-21 16:30:27,211 INFO -->         Diversity Improved from 100.00000 to 10.40823 !!!
+2026-04-21 16:30:27,211 INFO -->         Top1 Improved from 0.0000 to 0.4688 !!!
+2026-04-21 16:30:27,211 INFO -->         Top2 Improved from 0.0000 to 0.2094 !!!
+2026-04-21 16:30:27,211 INFO -->         Top3 Improved from 0.0000 to 0.1057 !!!
+2026-04-21 16:30:27,211 INFO -->         matching_score Improved from 100.00000 to 2.91450 !!!
+
+--- Run 2/5 ---
+2026-04-21 16:33:20,479 INFO -->         Eva. Iter 0 :, FID. 0.1989, &Diversity Real. 9.5654, Diversity. 10.1790, R_precision_real. [0.51674107 0.20535714 0.09263393], R_precision. [0.45870536 0.20982143 0.1078869 ], matching_score_real. 2.7029, matching_score_pred. 2.9485
+2026-04-21 16:33:20,479 INFO -->         Eva. Iter 0 :, FID. 0.1989, &Diversity Real. 9.5654, Diversity. 10.1790, R_precision_real. [0.51674107 0.20535714 0.09263393], R_precision. [0.45870536 0.20982143 0.1078869 ], matching_score_real. 2.7029, matching_score_pred. 2.9485
+2026-04-21 16:33:20,480 INFO -->         FID Improved from 1000.00000 to 0.19886 !!!
+2026-04-21 16:33:20,480 INFO -->         FID Improved from 1000.00000 to 0.19886 !!!
+2026-04-21 16:33:20,480 INFO -->         Diversity Improved from 100.00000 to 10.17896 !!!
+2026-04-21 16:33:20,480 INFO -->         Diversity Improved from 100.00000 to 10.17896 !!!
+2026-04-21 16:33:20,480 INFO -->         Top1 Improved from 0.0000 to 0.4587 !!!
+2026-04-21 16:33:20,480 INFO -->         Top1 Improved from 0.0000 to 0.4587 !!!
+2026-04-21 16:33:20,480 INFO -->         Top2 Improved from 0.0000 to 0.2098 !!!
+2026-04-21 16:33:20,480 INFO -->         Top2 Improved from 0.0000 to 0.2098 !!!
+2026-04-21 16:33:20,480 INFO -->         Top3 Improved from 0.0000 to 0.1079 !!!
+2026-04-21 16:33:20,480 INFO -->         Top3 Improved from 0.0000 to 0.1079 !!!
+2026-04-21 16:33:20,480 INFO -->         matching_score Improved from 100.00000 to 2.94849 !!!
+2026-04-21 16:33:20,480 INFO -->         matching_score Improved from 100.00000 to 2.94849 !!!
+
+--- Run 3/5 ---
+2026-04-21 16:36:11,869 INFO -->         Eva. Iter 0 :, FID. 0.1829, &Diversity Real. 10.2216, Diversity. 10.0978, R_precision_real. [0.52008929 0.20982143 0.09375   ], R_precision. [0.46763393 0.20089286 0.1078869 ], matching_score_real. 2.7124, matching_score_pred. 2.9608
+2026-04-21 16:36:11,869 INFO -->         Eva. Iter 0 :, FID. 0.1829, &Diversity Real. 10.2216, Diversity. 10.0978, R_precision_real. [0.52008929 0.20982143 0.09375   ], R_precision. [0.46763393 0.20089286 0.1078869 ], matching_score_real. 2.7124, matching_score_pred. 2.9608
+2026-04-21 16:36:11,869 INFO -->         Eva. Iter 0 :, FID. 0.1829, &Diversity Real. 10.2216, Diversity. 10.0978, R_precision_real. [0.52008929 0.20982143 0.09375   ], R_precision. [0.46763393 0.20089286 0.1078869 ], matching_score_real. 2.7124, matching_score_pred. 2.9608
+2026-04-21 16:36:11,870 INFO -->         FID Improved from 1000.00000 to 0.18295 !!!
+2026-04-21 16:36:11,870 INFO -->         FID Improved from 1000.00000 to 0.18295 !!!
+2026-04-21 16:36:11,870 INFO -->         FID Improved from 1000.00000 to 0.18295 !!!
+2026-04-21 16:36:11,870 INFO -->         Diversity Improved from 100.00000 to 10.09783 !!!
+2026-04-21 16:36:11,870 INFO -->         Diversity Improved from 100.00000 to 10.09783 !!!
+2026-04-21 16:36:11,870 INFO -->         Diversity Improved from 100.00000 to 10.09783 !!!
+2026-04-21 16:36:11,870 INFO -->         Top1 Improved from 0.0000 to 0.4676 !!!
+2026-04-21 16:36:11,870 INFO -->         Top1 Improved from 0.0000 to 0.4676 !!!
+2026-04-21 16:36:11,870 INFO -->         Top1 Improved from 0.0000 to 0.4676 !!!
+2026-04-21 16:36:11,870 INFO -->         Top2 Improved from 0.0000 to 0.2009 !!!
+2026-04-21 16:36:11,870 INFO -->         Top2 Improved from 0.0000 to 0.2009 !!!
+2026-04-21 16:36:11,870 INFO -->         Top2 Improved from 0.0000 to 0.2009 !!!
+2026-04-21 16:36:11,870 INFO -->         Top3 Improved from 0.0000 to 0.1079 !!!
+2026-04-21 16:36:11,870 INFO -->         Top3 Improved from 0.0000 to 0.1079 !!!
+2026-04-21 16:36:11,870 INFO -->         Top3 Improved from 0.0000 to 0.1079 !!!
+2026-04-21 16:36:11,870 INFO -->         matching_score Improved from 100.00000 to 2.96079 !!!
+2026-04-21 16:36:11,870 INFO -->         matching_score Improved from 100.00000 to 2.96079 !!!
+2026-04-21 16:36:11,870 INFO -->         matching_score Improved from 100.00000 to 2.96079 !!!
+
+--- Run 4/5 ---
+2026-04-21 16:39:05,080 INFO -->         Eva. Iter 0 :, FID. 0.1790, &Diversity Real. 9.7583, Diversity. 10.4593, R_precision_real. [0.51636905 0.21130952 0.1000744 ], R_precision. [0.48028274 0.19010417 0.10081845], matching_score_real. 2.7167, matching_score_pred. 2.9780
+2026-04-21 16:39:05,080 INFO -->         Eva. Iter 0 :, FID. 0.1790, &Diversity Real. 9.7583, Diversity. 10.4593, R_precision_real. [0.51636905 0.21130952 0.1000744 ], R_precision. [0.48028274 0.19010417 0.10081845], matching_score_real. 2.7167, matching_score_pred. 2.9780
+2026-04-21 16:39:05,080 INFO -->         Eva. Iter 0 :, FID. 0.1790, &Diversity Real. 9.7583, Diversity. 10.4593, R_precision_real. [0.51636905 0.21130952 0.1000744 ], R_precision. [0.48028274 0.19010417 0.10081845], matching_score_real. 2.7167, matching_score_pred. 2.9780
+2026-04-21 16:39:05,080 INFO -->         Eva. Iter 0 :, FID. 0.1790, &Diversity Real. 9.7583, Diversity. 10.4593, R_precision_real. [0.51636905 0.21130952 0.1000744 ], R_precision. [0.48028274 0.19010417 0.10081845], matching_score_real. 2.7167, matching_score_pred. 2.9780
+2026-04-21 16:39:05,092 INFO -->         FID Improved from 1000.00000 to 0.17905 !!!
+2026-04-21 16:39:05,092 INFO -->         FID Improved from 1000.00000 to 0.17905 !!!
+2026-04-21 16:39:05,092 INFO -->         FID Improved from 1000.00000 to 0.17905 !!!
+2026-04-21 16:39:05,092 INFO -->         FID Improved from 1000.00000 to 0.17905 !!!
+2026-04-21 16:39:05,092 INFO -->         Diversity Improved from 100.00000 to 10.45935 !!!
+2026-04-21 16:39:05,092 INFO -->         Diversity Improved from 100.00000 to 10.45935 !!!
+2026-04-21 16:39:05,092 INFO -->         Diversity Improved from 100.00000 to 10.45935 !!!
+2026-04-21 16:39:05,092 INFO -->         Diversity Improved from 100.00000 to 10.45935 !!!
+2026-04-21 16:39:05,092 INFO -->         Top1 Improved from 0.0000 to 0.4803 !!!
+2026-04-21 16:39:05,092 INFO -->         Top1 Improved from 0.0000 to 0.4803 !!!
+2026-04-21 16:39:05,092 INFO -->         Top1 Improved from 0.0000 to 0.4803 !!!
+2026-04-21 16:39:05,092 INFO -->         Top1 Improved from 0.0000 to 0.4803 !!!
+2026-04-21 16:39:05,092 INFO -->         Top2 Improved from 0.0000 to 0.1901 !!!
+2026-04-21 16:39:05,092 INFO -->         Top2 Improved from 0.0000 to 0.1901 !!!
+2026-04-21 16:39:05,092 INFO -->         Top2 Improved from 0.0000 to 0.1901 !!!
+2026-04-21 16:39:05,092 INFO -->         Top2 Improved from 0.0000 to 0.1901 !!!
+2026-04-21 16:39:05,093 INFO -->         Top3 Improved from 0.0000 to 0.1008 !!!
+2026-04-21 16:39:05,093 INFO -->         Top3 Improved from 0.0000 to 0.1008 !!!
+2026-04-21 16:39:05,093 INFO -->         Top3 Improved from 0.0000 to 0.1008 !!!
+2026-04-21 16:39:05,093 INFO -->         Top3 Improved from 0.0000 to 0.1008 !!!
+2026-04-21 16:39:05,093 INFO -->         matching_score Improved from 100.00000 to 2.97804 !!!
+2026-04-21 16:39:05,093 INFO -->         matching_score Improved from 100.00000 to 2.97804 !!!
+2026-04-21 16:39:05,093 INFO -->         matching_score Improved from 100.00000 to 2.97804 !!!
+2026-04-21 16:39:05,093 INFO -->         matching_score Improved from 100.00000 to 2.97804 !!!
+
+--- Run 5/5 ---
+2026-04-21 16:41:58,903 INFO -->         Eva. Iter 0 :, FID. 0.1816, &Diversity Real. 10.0717, Diversity. 10.0603, R_precision_real. [0.5375744  0.19494048 0.08891369], R_precision. [0.4765625  0.1968006  0.09598214], matching_score_real. 2.6992, matching_score_pred. 2.9892
+2026-04-21 16:41:58,903 INFO -->         Eva. Iter 0 :, FID. 0.1816, &Diversity Real. 10.0717, Diversity. 10.0603, R_precision_real. [0.5375744  0.19494048 0.08891369], R_precision. [0.4765625  0.1968006  0.09598214], matching_score_real. 2.6992, matching_score_pred. 2.9892
+2026-04-21 16:41:58,903 INFO -->         Eva. Iter 0 :, FID. 0.1816, &Diversity Real. 10.0717, Diversity. 10.0603, R_precision_real. [0.5375744  0.19494048 0.08891369], R_precision. [0.4765625  0.1968006  0.09598214], matching_score_real. 2.6992, matching_score_pred. 2.9892
+2026-04-21 16:41:58,903 INFO -->         Eva. Iter 0 :, FID. 0.1816, &Diversity Real. 10.0717, Diversity. 10.0603, R_precision_real. [0.5375744  0.19494048 0.08891369], R_precision. [0.4765625  0.1968006  0.09598214], matching_score_real. 2.6992, matching_score_pred. 2.9892
+2026-04-21 16:41:58,903 INFO -->         Eva. Iter 0 :, FID. 0.1816, &Diversity Real. 10.0717, Diversity. 10.0603, R_precision_real. [0.5375744  0.19494048 0.08891369], R_precision. [0.4765625  0.1968006  0.09598214], matching_score_real. 2.6992, matching_score_pred. 2.9892
+2026-04-21 16:41:58,904 INFO -->         FID Improved from 1000.00000 to 0.18162 !!!
+2026-04-21 16:41:58,904 INFO -->         FID Improved from 1000.00000 to 0.18162 !!!
+2026-04-21 16:41:58,904 INFO -->         FID Improved from 1000.00000 to 0.18162 !!!
+2026-04-21 16:41:58,904 INFO -->         FID Improved from 1000.00000 to 0.18162 !!!
+2026-04-21 16:41:58,904 INFO -->         FID Improved from 1000.00000 to 0.18162 !!!
+2026-04-21 16:41:58,904 INFO -->         Diversity Improved from 100.00000 to 10.06026 !!!
+2026-04-21 16:41:58,904 INFO -->         Diversity Improved from 100.00000 to 10.06026 !!!
+2026-04-21 16:41:58,904 INFO -->         Diversity Improved from 100.00000 to 10.06026 !!!
+2026-04-21 16:41:58,904 INFO -->         Diversity Improved from 100.00000 to 10.06026 !!!
+2026-04-21 16:41:58,904 INFO -->         Diversity Improved from 100.00000 to 10.06026 !!!
+2026-04-21 16:41:58,904 INFO -->         Top1 Improved from 0.0000 to 0.4766 !!!
+2026-04-21 16:41:58,904 INFO -->         Top1 Improved from 0.0000 to 0.4766 !!!
+2026-04-21 16:41:58,904 INFO -->         Top1 Improved from 0.0000 to 0.4766 !!!
+2026-04-21 16:41:58,904 INFO -->         Top1 Improved from 0.0000 to 0.4766 !!!
+2026-04-21 16:41:58,904 INFO -->         Top1 Improved from 0.0000 to 0.4766 !!!
+2026-04-21 16:41:58,904 INFO -->         Top2 Improved from 0.0000 to 0.1968 !!!
+2026-04-21 16:41:58,904 INFO -->         Top2 Improved from 0.0000 to 0.1968 !!!
+2026-04-21 16:41:58,904 INFO -->         Top2 Improved from 0.0000 to 0.1968 !!!
+2026-04-21 16:41:58,904 INFO -->         Top2 Improved from 0.0000 to 0.1968 !!!
+2026-04-21 16:41:58,904 INFO -->         Top2 Improved from 0.0000 to 0.1968 !!!
+2026-04-21 16:41:58,904 INFO -->         Top3 Improved from 0.0000 to 0.0960 !!!
+2026-04-21 16:41:58,904 INFO -->         Top3 Improved from 0.0000 to 0.0960 !!!
+2026-04-21 16:41:58,904 INFO -->         Top3 Improved from 0.0000 to 0.0960 !!!
+2026-04-21 16:41:58,904 INFO -->         Top3 Improved from 0.0000 to 0.0960 !!!
+2026-04-21 16:41:58,904 INFO -->         Top3 Improved from 0.0000 to 0.0960 !!!
+2026-04-21 16:41:58,904 INFO -->         matching_score Improved from 100.00000 to 2.98916 !!!
+2026-04-21 16:41:58,904 INFO -->         matching_score Improved from 100.00000 to 2.98916 !!!
+2026-04-21 16:41:58,904 INFO -->         matching_score Improved from 100.00000 to 2.98916 !!!
+2026-04-21 16:41:58,904 INFO -->         matching_score Improved from 100.00000 to 2.98916 !!!
+2026-04-21 16:41:58,904 INFO -->         matching_score Improved from 100.00000 to 2.98916 !!!
+
+============================================================
+FINAL TEST SET RESULTS (averaged over 5 runs)
+============================================================
+FID:             0.1857 ± 0.0070
+R@1:             0.4704 ± 0.0075
+R@2:             0.2014 ± 0.0075
+R@3:             0.1036 ± 0.0046
+Diversity:       10.2409 ± 0.1629
+Matching Score:  2.9582 ± 0.0259
+============================================================
+Job finished at Tue Apr 21 04:42:00 PM CDT 2026

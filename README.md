@@ -1,4 +1,4 @@
-# Multilingual Text-to-Motion Generation with mT5
+# Multilingual Text-to-Motion Generation with mT5 , mBERT and biLSTM
 
 A text-to-motion generation system that replaces CLIP with Google's [mT5](https://huggingface.co/google/mt5-small) encoder, enabling motion generation from multilingual text prompts (English, Chinese, etc.). Built on top of [T2M-GPT](https://github.com/Mael-zys/T2M-GPT).
 
@@ -12,7 +12,7 @@ Text Prompt (any language) → mT5 Encoder → GPT-2 Decoder → VQ-VAE Decoder 
 - **GPT-2 Decoder** — Autoregressively generates discrete motion tokens from text embeddings
 - **VQ-VAE Decoder** — Decodes token sequences into continuous 263-dim motion features (pre-trained, frozen)
 
-## Results
+## Results (MT5)
 
 Evaluated on the HumanML3D test set (averaged over 5 runs):
 

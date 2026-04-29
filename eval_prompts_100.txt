@@ -1,0 +1,300 @@
+  1. EN: a person walks forward
+     ZH: 一个人向前走
+
+  2. EN: a person runs forward
+     ZH: 一个人向前跑
+
+  3. EN: a person walks slowly
+     ZH: 一个人慢慢走
+
+  4. EN: a person walks backward
+     ZH: 一个人向后走
+
+  5. EN: a person jogs in place
+     ZH: 一个人原地慢跑
+
+  6. EN: a person walks to the left
+     ZH: 一个人向左走
+
+  7. EN: a person walks to the right
+     ZH: 一个人向右走
+
+  8. EN: a person walks in a circle
+     ZH: 一个人绕圈走
+
+  9. EN: a person runs quickly
+     ZH: 一个人快速跑
+
+ 10. EN: a person takes a step forward
+     ZH: 一个人向前迈一步
+
+ 11. EN: a person walks with long strides
+     ZH: 一个人大步走
+
+ 12. EN: a person tiptoes forward
+     ZH: 一个人踮脚向前走
+
+ 13. EN: a person marches in place
+     ZH: 一个人原地踏步
+
+ 14. EN: a person shuffles to the side
+     ZH: 一个人侧身移动
+
+ 15. EN: a person paces back and forth
+     ZH: 一个人来回踱步
+
+ 16. EN: a person jumps up
+     ZH: 一个人跳起来
+
+ 17. EN: a person hops on one foot
+     ZH: 一个人单脚跳
+
+ 18. EN: a person jumps forward
+     ZH: 一个人向前跳
+
+ 19. EN: a person does a small jump
+     ZH: 一个人小跳一下
+
+ 20. EN: a person jumps and lands
+     ZH: 一个人跳起来然后落地
+
+ 21. EN: a person crouches down then jumps
+     ZH: 一个人蹲下然后跳起来
+
+ 22. EN: a person jumps to the right
+     ZH: 一个人向右跳
+
+ 23. EN: a person jumps with both feet
+     ZH: 一个人双脚跳
+
+ 24. EN: a person leaps forward
+     ZH: 一个人向前跃
+
+ 25. EN: a person bounces up and down
+     ZH: 一个人上下弹跳
+
+ 26. EN: a person sits down
+     ZH: 一个人坐下
+
+ 27. EN: a person sits down on a chair
+     ZH: 一个人坐到椅子上
+
+ 28. EN: a person stands up
+     ZH: 一个人站起来
+
+ 29. EN: a person stands still
+     ZH: 一个人站着不动
+
+ 30. EN: a person squats down
+     ZH: 一个人蹲下
+
+ 31. EN: a person kneels down
+     ZH: 一个人跪下
+
+ 32. EN: a person sits on the ground
+     ZH: 一个人坐在地上
+
+ 33. EN: a person stands on one leg
+     ZH: 一个人单腿站立
+
+ 34. EN: a person gets up from the ground
+     ZH: 一个人从地上站起来
+
+ 35. EN: a person leans against a wall
+     ZH: 一个人靠在墙上
+
+ 36. EN: a person waves with their right hand
+     ZH: 一个人用右手挥手
+
+ 37. EN: a person waves with their left hand
+     ZH: 一个人用左手挥手
+
+ 38. EN: a person raises both arms
+     ZH: 一个人举起双臂
+
+ 39. EN: a person claps their hands
+     ZH: 一个人拍手
+
+ 40. EN: a person stretches their arms
+     ZH: 一个人伸展手臂
+
+ 41. EN: a person reaches up with one hand
+     ZH: 一个人单手向上伸
+
+ 42. EN: a person puts their hands on their hips
+     ZH: 一个人双手叉腰
+
+ 43. EN: a person crosses their arms
+     ZH: 一个人双臂交叉
+
+ 44. EN: a person points forward
+     ZH: 一个人向前指
+
+ 45. EN: a person raises their right hand
+     ZH: 一个人举起右手
+
+ 46. EN: a person swings their arms
+     ZH: 一个人摆动手臂
+
+ 47. EN: a person pushes something forward
+     ZH: 一个人向前推东西
+
+ 48. EN: a person pulls something toward them
+     ZH: 一个人把东西拉向自己
+
+ 49. EN: a person throws something
+     ZH: 一个人扔东西
+
+ 50. EN: a person catches something
+     ZH: 一个人接住东西
+
+ 51. EN: a person kicks with the right leg
+     ZH: 一个人用右腿踢
+
+ 52. EN: a person kicks with the left leg
+     ZH: 一个人用左腿踢
+
+ 53. EN: a person lifts their right leg
+     ZH: 一个人抬起右腿
+
+ 54. EN: a person lifts their left leg
+     ZH: 一个人抬起左腿
+
+ 55. EN: a person stomps their foot
+     ZH: 一个人跺脚
+
+ 56. EN: a person steps over something
+     ZH: 一个人跨过东西
+
+ 57. EN: a person lunges forward
+     ZH: 一个人向前弓步
+
+ 58. EN: a person does a side kick
+     ZH: 一个人侧踢
+
+ 59. EN: a person swings their leg
+     ZH: 一个人摆腿
+
+ 60. EN: a person taps their foot
+     ZH: 一个人用脚轻敲
+
+ 61. EN: a person bows
+     ZH: 一个人鞠躬
+
+ 62. EN: a person nods their head
+     ZH: 一个人点头
+
+ 63. EN: a person shakes their head
+     ZH: 一个人摇头
+
+ 64. EN: a person turns around
+     ZH: 一个人转身
+
+ 65. EN: a person looks to the left
+     ZH: 一个人向左看
+
+ 66. EN: a person looks to the right
+     ZH: 一个人向右看
+
+ 67. EN: a person bends forward
+     ZH: 一个人向前弯腰
+
+ 68. EN: a person leans to the side
+     ZH: 一个人侧身倾斜
+
+ 69. EN: a person twists their body
+     ZH: 一个人扭动身体
+
+ 70. EN: a person shrugs their shoulders
+     ZH: 一个人耸肩
+
+ 71. EN: a person walks forward then stops
+     ZH: 一个人向前走然后停下
+
+ 72. EN: a person walks forward and waves
+     ZH: 一个人向前走并挥手
+
+ 73. EN: a person sits down then stands up
+     ZH: 一个人坐下然后站起来
+
+ 74. EN: a person jumps then walks forward
+     ZH: 一个人跳起来然后向前走
+
+ 75. EN: a person picks something up from the ground
+     ZH: 一个人从地上捡东西
+
+ 76. EN: a person puts something down on the ground
+     ZH: 一个人把东西放在地上
+
+ 77. EN: a person walks to a chair and sits down
+     ZH: 一个人走到椅子旁坐下
+
+ 78. EN: a person stands up and walks away
+     ZH: 一个人站起来走开
+
+ 79. EN: a person turns around and walks back
+     ZH: 一个人转身走回去
+
+ 80. EN: a person kicks a ball
+     ZH: 一个人踢球
+
+ 81. EN: a person dribbles a basketball
+     ZH: 一个人运篮球
+
+ 82. EN: a person swings a bat
+     ZH: 一个人挥棒
+
+ 83. EN: a person drinks from a cup
+     ZH: 一个人用杯子喝水
+
+ 84. EN: a person opens a door
+     ZH: 一个人开门
+
+ 85. EN: a person closes a door
+     ZH: 一个人关门
+
+ 86. EN: a person walks happily
+     ZH: 一个人开心地走
+
+ 87. EN: a person walks sadly
+     ZH: 一个人伤心地走
+
+ 88. EN: a person walks confidently
+     ZH: 一个人自信地走
+
+ 89. EN: a person sneaks forward quietly
+     ZH: 一个人悄悄向前走
+
+ 90. EN: a person stumbles while walking
+     ZH: 一个人走路时绊了一下
+
+ 91. EN: a person dances
+     ZH: 一个人跳舞
+
+ 92. EN: a person stretches their body
+     ZH: 一个人伸展身体
+
+ 93. EN: a person does jumping jacks
+     ZH: 一个人做开合跳
+
+ 94. EN: a person exercises
+     ZH: 一个人锻炼
+
+ 95. EN: a person warms up before exercise
+     ZH: 一个人运动前热身
+
+ 96. EN: a person cools down after exercise
+     ZH: 一个人运动后放松
+
+ 97. EN: a person practices martial arts
+     ZH: 一个人练武术
+
+ 98. EN: a person does a push up
+     ZH: 一个人做俯卧撑
+
+ 99. EN: a person does a squat
+     ZH: 一个人做深蹲
+
+100. EN: a person takes a deep breath
+     ZH: 一个人深呼吸
+

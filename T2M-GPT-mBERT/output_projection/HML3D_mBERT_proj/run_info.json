@@ -1,0 +1,32 @@
+{
+  "args": {
+    "data_root": "dataset/HumanML3D",
+    "split_file": "all.txt",
+    "subset_size": -1,
+    "val_ratio": 0.1,
+    "batch_size": 128,
+    "epochs": 20,
+    "lr": 0.0001,
+    "weight_decay": 0.0001,
+    "max_text_len": 64,
+    "lambda_mse": 1.0,
+    "lambda_cos": 1.0,
+    "num_workers": 4,
+    "seed": 123,
+    "device": "cuda",
+    "mbert_model_name": "bert-base-multilingual-cased",
+    "out_dir": "output_projection",
+    "exp_name": "HML3D_mBERT_proj"
+  },
+  "dataset_stats": {
+    "split_file": "all.txt",
+    "source_motion_count": 29228,
+    "requested_motion_count": 29228,
+    "selected_motion_count": 29228,
+    "missing_text_file_count": 0,
+    "caption_count": 87372
+  },
+  "train_caption_count": 78635,
+  "val_caption_count": 8737,
+  "created_at": "2026-04-19 05:56:59"
+}

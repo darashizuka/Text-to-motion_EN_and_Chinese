@@ -1,0 +1,217 @@
+method,pair_id,motion_id,language,prompt,frames,token_count,motion_path
+mbert,1,010557,en,"a person does head, shoulders, knees, and toes.",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair1_mbert_en_motion_263.npy
+mbert,1,010557,zh,一个人的头、肩、膝和脚趾。,72,18,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair1_mbert_zh_motion_263.npy
+mbert,3,004720,en,"a person stands while raising their right hand, bending by the elbow, to their facial area, pauses, and puts their right arm back down.",56,14,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair3_mbert_en_motion_263.npy
+mbert,3,004720,zh,一个人站着举起右手 弯下手肘 伸到脸部部部位 停下来 右臂放下,64,16,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair3_mbert_zh_motion_263.npy
+mbert,4,001888,en,the person is kneeling down on all fours to begin to crawl,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair4_mbert_en_motion_263.npy
+mbert,4,001888,zh,人跪在四下 开始爬行,132,33,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair4_mbert_zh_motion_263.npy
+mbert,7,009244,en,"a person standing still, does nothing.",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair7_mbert_en_motion_263.npy
+mbert,7,009244,zh,"一个人站立不动,什么都不做。",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair7_mbert_zh_motion_263.npy
+mbert,14,M014347,en,this person is seated and appears to play the drums.,36,9,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair14_mbert_en_motion_263.npy
+mbert,14,M014347,zh,"这个人坐着,似乎在打鼓。",120,30,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair14_mbert_zh_motion_263.npy
+mbert,15,M001052,en,the man throws a big left handed punch in the air.,52,13,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair15_mbert_en_motion_263.npy
+mbert,15,M001052,zh,男人向空中左拳一拳,48,12,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair15_mbert_zh_motion_263.npy
+mbert,17,M002951,en,a person walks backwards slowly.,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair17_mbert_en_motion_263.npy
+mbert,17,M002951,zh,一个人慢慢地向后走,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair17_mbert_zh_motion_263.npy
+mbert,19,006258,en,person stands and folds arms in front of their body,84,21,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair19_mbert_en_motion_263.npy
+mbert,19,006258,zh,人在身体前站立和折臂,64,16,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair19_mbert_zh_motion_263.npy
+mbert,21,M008354,en,a figure walks forward and gives a sligh kick with thr right foot before stepping backward to the starting position.,124,31,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair21_mbert_en_motion_263.npy
+mbert,21,M008354,zh,"数字向前走,右脚右脚踢一脚,然后往前走,往前走,往前走,往前走,往前走,往前走,往前走,往后走,往前走,往前走,往前走,往后走,往后走,往后走,往后走,往后走。",188,47,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair21_mbert_zh_motion_263.npy
+mbert,22,M001473,en,"a person takes a step back, sits down and raises shoulders",128,32,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair22_mbert_en_motion_263.npy
+mbert,22,M001473,zh,"一个人退后一步,坐下,肩膀抬起",88,22,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair22_mbert_zh_motion_263.npy
+mbert,23,001052,en,the man throws a big right handed punch in the air.,48,12,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair23_mbert_en_motion_263.npy
+mbert,23,001052,zh,人朝天上打一拳右拳,48,12,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair23_mbert_zh_motion_263.npy
+mbert,25,013316,en,move the both the hand and after hold the legs.,196,49,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair25_mbert_en_motion_263.npy
+mbert,25,013316,zh,手动和脚后都按住腿,120,30,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair25_mbert_zh_motion_263.npy
+mbert,26,000166,en,the person raises their right arm and brings their hand to their face.,100,25,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair26_mbert_en_motion_263.npy
+mbert,26,000166,zh,"人举起右臂,手伸到脸上。",68,17,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair26_mbert_zh_motion_263.npy
+mbert,29,004615,en,swings right arm up while left is staying still,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair29_mbert_en_motion_263.npy
+mbert,29,004615,zh,"右臂向上摆动,左手保持静止",116,29,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair29_mbert_zh_motion_263.npy
+mbert,30,002209,en,"a man walks in a forward arc, skewing to the right side of the screen.",100,25,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair30_mbert_en_motion_263.npy
+mbert,30,002209,zh,一个人走在前方的电弧中 向屏幕右侧倾斜,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair30_mbert_zh_motion_263.npy
+mbert,31,002312,en,a person walks very slowly forward.,116,29,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair31_mbert_en_motion_263.npy
+mbert,31,002312,zh,一个人慢慢地向前行走,108,27,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair31_mbert_zh_motion_263.npy
+mbert,33,014043,en,a person sits down then stands back up.,144,36,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair33_mbert_en_motion_263.npy
+mbert,33,014043,zh,"一个人坐下,然后站起来。",184,46,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair33_mbert_zh_motion_263.npy
+mbert,34,006337,en,this person walks briskly to the right then the left to the right again and the left.,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair34_mbert_en_motion_263.npy
+mbert,34,006337,zh,"这个人在向右飞步,然后向左转,然后向右转,然后向左转。",76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair34_mbert_zh_motion_263.npy
+mbert,35,001438,en,a person is playing the violin.,156,39,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair35_mbert_en_motion_263.npy
+mbert,35,001438,zh,一个人在拉小提琴,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair35_mbert_zh_motion_263.npy
+mbert,36,012753,en,a person walks forwards and turns around on their left foot.,116,29,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair36_mbert_en_motion_263.npy
+mbert,36,012753,zh,"一个人朝前走,左脚转过身去。",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair36_mbert_zh_motion_263.npy
+mbert,37,004292,en,a man quickly runs forward.,40,10,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair37_mbert_en_motion_263.npy
+mbert,37,004292,zh,一个男人迅速向前奔跑。,112,28,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair37_mbert_zh_motion_263.npy
+mbert,38,M011652,en,taking a small hop and few steps to the right,108,27,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair38_mbert_en_motion_263.npy
+mbert,38,M011652,zh,"向右走一小步,往右走一小步,往右走一小步",76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair38_mbert_zh_motion_263.npy
+mbert,39,002917,en,a man moves his hand up in the air.,72,18,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair39_mbert_en_motion_263.npy
+mbert,39,002917,zh,一个男人把手举起来,36,9,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair39_mbert_zh_motion_263.npy
+mbert,40,012240,en,"it is a person opening up a chest and briefly looking inside of it, then closing the chest back.",184,46,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair40_mbert_en_motion_263.npy
+mbert,40,012240,zh,"一个人打开一个胸口, 并简短地看里面, 然后把胸口往后关。",176,44,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair40_mbert_zh_motion_263.npy
+mbert,44,013546,en,a person eats with left hand.,40,10,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair44_mbert_en_motion_263.npy
+mbert,44,013546,zh,一个人用左手吃东西。,100,25,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair44_mbert_zh_motion_263.npy
+mbert,48,012568,en,the person does a couple of small kicks with his left leg,76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair48_mbert_en_motion_263.npy
+mbert,48,012568,zh,一个人用左腿踢了两脚,60,15,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair48_mbert_zh_motion_263.npy
+mbert,50,M012753,en,a person walks forwards and turns around on their right foot.,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair50_mbert_en_motion_263.npy
+mbert,50,M012753,zh,"一个人朝前走,右脚转过身去。",60,15,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair50_mbert_zh_motion_263.npy
+mbert,52,M000344,en,garbage man throws garbage in the truck,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair52_mbert_en_motion_263.npy
+mbert,52,M000344,zh,垃圾处理员把垃圾扔进卡车,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair52_mbert_zh_motion_263.npy
+mbert,56,000974,en,a person passing a ball or just kicking the ground twice,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair56_mbert_en_motion_263.npy
+mbert,56,000974,zh,一个人通过球球或踢地两次,168,42,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair56_mbert_zh_motion_263.npy
+mbert,58,M003900,en,a person appears to be trying to keep their balance.,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair58_mbert_en_motion_263.npy
+mbert,58,M003900,zh,一个人似乎试图保持平衡。,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair58_mbert_zh_motion_263.npy
+mbert,61,M005278,en,person is walking with handrail assistance,60,15,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair61_mbert_en_motion_263.npy
+mbert,61,M005278,zh,使用扶手协助行走的人,112,28,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair61_mbert_zh_motion_263.npy
+mbert,62,M003424,en,man jumps twice in place,92,23,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair62_mbert_en_motion_263.npy
+mbert,62,M003424,zh,男人跳两次跳两次就位,36,9,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair62_mbert_zh_motion_263.npy
+mbert,63,009972,en,a person is doing jumping jacks.,52,13,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair63_mbert_en_motion_263.npy
+mbert,63,009972,zh,一个人正在做跳跃插孔。,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair63_mbert_zh_motion_263.npy
+mbert,64,M007121,en,"a person walks up four steps with their hands by their sides and their lean forward slightly as they go up the stairs and once they've stopped going up the stairs, they straighten up again",176,44,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair64_mbert_en_motion_263.npy
+mbert,64,M007121,zh,一个人用双手向上走四步 双手向上走四步 当他们爬上楼梯时 轻轻的向前倾斜 当他们停止上楼梯时,100,25,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair64_mbert_zh_motion_263.npy
+mbert,65,M004556,en,"someone walks forward and to the left, then stands looking straight ahead.",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair65_mbert_en_motion_263.npy
+mbert,65,M004556,zh,"有人向前走,然后向左走,然后直视前方。",72,18,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair65_mbert_zh_motion_263.npy
+mbert,67,002542,en,person standing bends forward slightly to right to pick something up with both hands and moves item slightly to the left,92,23,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair67_mbert_en_motion_263.npy
+mbert,67,002542,zh,"人站立时向右稍微弯曲,用双手拿东西,向左稍微移动物品。",96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair67_mbert_zh_motion_263.npy
+mbert,68,M013735,en,a person giving a round of applause,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair68_mbert_en_motion_263.npy
+mbert,68,M013735,zh,给予热烈掌声的人,148,37,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair68_mbert_zh_motion_263.npy
+mbert,73,M012579,en,"a person steps forward, then kneels down using their right hand for support.",148,37,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair73_mbert_en_motion_263.npy
+mbert,73,M012579,zh,"一个人向前走,然后跪下,用右手求得支持。",144,36,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair73_mbert_zh_motion_263.npy
+mbert,75,010586,en,"a person sit on the floor, while cross both legs",112,28,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair75_mbert_en_motion_263.npy
+mbert,75,010586,zh,"一人坐在地板上,两腿交叉",180,45,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair75_mbert_zh_motion_263.npy
+mbert,76,M003752,en,a man is doing jumping jacks.,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair76_mbert_en_motion_263.npy
+mbert,76,M003752,zh,一个男人在做跳跃插孔。,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair76_mbert_zh_motion_263.npy
+mbert,77,M003784,en,a person walks around in a circle.,128,32,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair77_mbert_en_motion_263.npy
+mbert,77,M003784,zh,一个人环绕圈子走来走去。,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair77_mbert_zh_motion_263.npy
+mbert,78,M004346,en,stick person looks as if to be treading water in the befgining and then puts arms up as if to flex and then mobes arms back,196,49,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair78_mbert_en_motion_263.npy
+mbert,78,M004346,zh,"棍棒人看起来像是 脚踏水 在树枝中,然后举起手臂 举起手来似乎 伸动,然后动员 手臂后退",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair78_mbert_zh_motion_263.npy
+mbert,80,M012981,en,a man is waving both arms above his head 6 times.,60,15,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair80_mbert_en_motion_263.npy
+mbert,80,M012981,zh,一个人在头顶上挥动了六下双臂,84,21,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair80_mbert_zh_motion_263.npy
+mbert,83,002922,en,someone completes a full jumping jack before stopping.,84,21,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair83_mbert_en_motion_263.npy
+mbert,83,002922,zh,某人在停止前完成全面跳跃 。,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair83_mbert_zh_motion_263.npy
+mbert,85,014499,en,a person remained sitting down.,196,49,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair85_mbert_en_motion_263.npy
+mbert,85,014499,zh,一个人仍然坐着。,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair85_mbert_zh_motion_263.npy
+mbert,86,003039,en,"a man walks forward and picks up an object with his right hand, then puts the object back down and steps backward.",92,23,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair86_mbert_en_motion_263.npy
+mbert,86,003039,zh,"一个人走过去,用右手拿起一个物体,然后把物体放下,后退。",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair86_mbert_zh_motion_263.npy
+mbert,88,000063,en,"a person reaches down with the left arm. the person then reaches out with right arm and begins a scratching, rotating motion.",68,17,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair88_mbert_en_motion_263.npy
+mbert,88,000063,zh,"一个人用左臂伸向下,然后用右臂伸向外,开始刮伤,旋转运动。",176,44,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair88_mbert_zh_motion_263.npy
+mbert,90,M003886,en,"walked left then went up  ladder, holding on with both arms then reached with left arm to grab something",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair90_mbert_en_motion_263.npy
+mbert,90,M003886,zh,"向左走左走,然后上梯子,两只手牵着两只胳膊,然后用左手伸到左手抓住东西。",168,42,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair90_mbert_zh_motion_263.npy
+mbert,91,M009041,en,a person does a throwing motion with his left arm,140,35,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair91_mbert_en_motion_263.npy
+mbert,91,M009041,zh,一个人用左臂投球,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair91_mbert_zh_motion_263.npy
+mbert,95,001320,en,a person clasps their arms after shifting temporarily to the right.,76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair95_mbert_en_motion_263.npy
+mbert,95,001320,zh,一个人在暂时向右移动后拍拍他们的手臂。,156,39,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair95_mbert_zh_motion_263.npy
+mbert,97,M013388,en,person is walking backwards at medium pace,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair97_mbert_en_motion_263.npy
+mbert,97,M013388,zh,以中等速度向后走,72,18,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair97_mbert_zh_motion_263.npy
+mbert,98,M001598,en,"a person brings their right hand up to touch their mouth, returns their arm to the side, then swings both arms simultaneously up and away from them.",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair98_mbert_en_motion_263.npy
+mbert,98,M001598,zh,"一个人举起右手触摸自己的嘴,把手臂伸到一边,然后双臂同时向上和向外挥动。",144,36,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair98_mbert_zh_motion_263.npy
+mbert,99,003849,en,a person brings their right arm back then swings it rapidly forward in a throwing motion,64,16,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair99_mbert_en_motion_263.npy
+mbert,99,003849,zh,一个人的右臂 回到右臂 然后挥动它 快速向前,100,25,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair99_mbert_zh_motion_263.npy
+mbert,100,004157,en,"a person stands from the ground, takes left foot up, sets back down, does the same on the right side.",80,20,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair100_mbert_en_motion_263.npy
+mbert,100,004157,zh,一个人站在地上 左脚抬起来 后退 右侧也这样,80,20,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair100_mbert_zh_motion_263.npy
+clip,1,010557,en,"a person does head, shoulders, knees, and toes.",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair1_clip_en_motion_263.npy
+clip,1,010557,zh,一个人的头、肩、膝和脚趾。,148,37,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair1_clip_zh_motion_263.npy
+clip,3,004720,en,"a person stands while raising their right hand, bending by the elbow, to their facial area, pauses, and puts their right arm back down.",68,17,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair3_clip_en_motion_263.npy
+clip,3,004720,zh,一个人站着举起右手 弯下手肘 伸到脸部部部位 停下来 右臂放下,92,23,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair3_clip_zh_motion_263.npy
+clip,4,001888,en,the person is kneeling down on all fours to begin to crawl,124,31,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair4_clip_en_motion_263.npy
+clip,4,001888,zh,人跪在四下 开始爬行,120,30,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair4_clip_zh_motion_263.npy
+clip,7,009244,en,"a person standing still, does nothing.",120,30,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair7_clip_en_motion_263.npy
+clip,7,009244,zh,"一个人站立不动,什么都不做。",196,49,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair7_clip_zh_motion_263.npy
+clip,14,M014347,en,this person is seated and appears to play the drums.,40,10,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair14_clip_en_motion_263.npy
+clip,14,M014347,zh,"这个人坐着,似乎在打鼓。",124,31,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair14_clip_zh_motion_263.npy
+clip,15,M001052,en,the man throws a big left handed punch in the air.,48,12,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair15_clip_en_motion_263.npy
+clip,15,M001052,zh,男人向空中左拳一拳,72,18,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair15_clip_zh_motion_263.npy
+clip,17,M002951,en,a person walks backwards slowly.,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair17_clip_en_motion_263.npy
+clip,17,M002951,zh,一个人慢慢地向后走,180,45,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair17_clip_zh_motion_263.npy
+clip,19,006258,en,person stands and folds arms in front of their body,76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair19_clip_en_motion_263.npy
+clip,19,006258,zh,人在身体前站立和折臂,76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair19_clip_zh_motion_263.npy
+clip,21,M008354,en,a figure walks forward and gives a sligh kick with thr right foot before stepping backward to the starting position.,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair21_clip_en_motion_263.npy
+clip,21,M008354,zh,"数字向前走,右脚右脚踢一脚,然后往前走,往前走,往前走,往前走,往前走,往前走,往前走,往后走,往前走,往前走,往前走,往后走,往后走,往后走,往后走,往后走。",104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair21_clip_zh_motion_263.npy
+clip,22,M001473,en,"a person takes a step back, sits down and raises shoulders",156,39,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair22_clip_en_motion_263.npy
+clip,22,M001473,zh,"一个人退后一步,坐下,肩膀抬起",124,31,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair22_clip_zh_motion_263.npy
+clip,23,001052,en,the man throws a big right handed punch in the air.,40,10,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair23_clip_en_motion_263.npy
+clip,23,001052,zh,人朝天上打一拳右拳,124,31,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair23_clip_zh_motion_263.npy
+clip,25,013316,en,move the both the hand and after hold the legs.,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair25_clip_en_motion_263.npy
+clip,25,013316,zh,手动和脚后都按住腿,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair25_clip_zh_motion_263.npy
+clip,26,000166,en,the person raises their right arm and brings their hand to their face.,68,17,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair26_clip_en_motion_263.npy
+clip,26,000166,zh,"人举起右臂,手伸到脸上。",104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair26_clip_zh_motion_263.npy
+clip,29,004615,en,swings right arm up while left is staying still,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair29_clip_en_motion_263.npy
+clip,29,004615,zh,"右臂向上摆动,左手保持静止",76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair29_clip_zh_motion_263.npy
+clip,30,002209,en,"a man walks in a forward arc, skewing to the right side of the screen.",92,23,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair30_clip_en_motion_263.npy
+clip,30,002209,zh,一个人走在前方的电弧中 向屏幕右侧倾斜,108,27,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair30_clip_zh_motion_263.npy
+clip,31,002312,en,a person walks very slowly forward.,160,40,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair31_clip_en_motion_263.npy
+clip,31,002312,zh,一个人慢慢地向前行走,124,31,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair31_clip_zh_motion_263.npy
+clip,33,014043,en,a person sits down then stands back up.,92,23,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair33_clip_en_motion_263.npy
+clip,33,014043,zh,"一个人坐下,然后站起来。",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair33_clip_zh_motion_263.npy
+clip,34,006337,en,this person walks briskly to the right then the left to the right again and the left.,176,44,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair34_clip_en_motion_263.npy
+clip,34,006337,zh,"这个人在向右飞步,然后向左转,然后向右转,然后向左转。",108,27,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair34_clip_zh_motion_263.npy
+clip,35,001438,en,a person is playing the violin.,156,39,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair35_clip_en_motion_263.npy
+clip,35,001438,zh,一个人在拉小提琴,112,28,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair35_clip_zh_motion_263.npy
+clip,36,012753,en,a person walks forwards and turns around on their left foot.,124,31,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair36_clip_en_motion_263.npy
+clip,36,012753,zh,"一个人朝前走,左脚转过身去。",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair36_clip_zh_motion_263.npy
+clip,37,004292,en,a man quickly runs forward.,76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair37_clip_en_motion_263.npy
+clip,37,004292,zh,一个男人迅速向前奔跑。,120,30,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair37_clip_zh_motion_263.npy
+clip,38,M011652,en,taking a small hop and few steps to the right,108,27,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair38_clip_en_motion_263.npy
+clip,38,M011652,zh,"向右走一小步,往右走一小步,往右走一小步",92,23,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair38_clip_zh_motion_263.npy
+clip,39,002917,en,a man moves his hand up in the air.,132,33,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair39_clip_en_motion_263.npy
+clip,39,002917,zh,一个男人把手举起来,160,40,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair39_clip_zh_motion_263.npy
+clip,40,012240,en,"it is a person opening up a chest and briefly looking inside of it, then closing the chest back.",184,46,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair40_clip_en_motion_263.npy
+clip,40,012240,zh,"一个人打开一个胸口, 并简短地看里面, 然后把胸口往后关。",152,38,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair40_clip_zh_motion_263.npy
+clip,44,013546,en,a person eats with left hand.,44,11,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair44_clip_en_motion_263.npy
+clip,44,013546,zh,一个人用左手吃东西。,148,37,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair44_clip_zh_motion_263.npy
+clip,48,012568,en,the person does a couple of small kicks with his left leg,84,21,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair48_clip_en_motion_263.npy
+clip,48,012568,zh,一个人用左腿踢了两脚,164,41,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair48_clip_zh_motion_263.npy
+clip,50,M012753,en,a person walks forwards and turns around on their right foot.,124,31,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair50_clip_en_motion_263.npy
+clip,50,M012753,zh,"一个人朝前走,右脚转过身去。",184,46,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair50_clip_zh_motion_263.npy
+clip,52,M000344,en,garbage man throws garbage in the truck,180,45,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair52_clip_en_motion_263.npy
+clip,52,M000344,zh,垃圾处理员把垃圾扔进卡车,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair52_clip_zh_motion_263.npy
+clip,56,000974,en,a person passing a ball or just kicking the ground twice,92,23,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair56_clip_en_motion_263.npy
+clip,56,000974,zh,一个人通过球球或踢地两次,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair56_clip_zh_motion_263.npy
+clip,58,M003900,en,a person appears to be trying to keep their balance.,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair58_clip_en_motion_263.npy
+clip,58,M003900,zh,一个人似乎试图保持平衡。,76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair58_clip_zh_motion_263.npy
+clip,61,M005278,en,person is walking with handrail assistance,60,15,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair61_clip_en_motion_263.npy
+clip,61,M005278,zh,使用扶手协助行走的人,108,27,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair61_clip_zh_motion_263.npy
+clip,62,M003424,en,man jumps twice in place,68,17,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair62_clip_en_motion_263.npy
+clip,62,M003424,zh,男人跳两次跳两次就位,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair62_clip_zh_motion_263.npy
+clip,63,009972,en,a person is doing jumping jacks.,80,20,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair63_clip_en_motion_263.npy
+clip,63,009972,zh,一个人正在做跳跃插孔。,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair63_clip_zh_motion_263.npy
+clip,64,M007121,en,"a person walks up four steps with their hands by their sides and their lean forward slightly as they go up the stairs and once they've stopped going up the stairs, they straighten up again",176,44,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair64_clip_en_motion_263.npy
+clip,64,M007121,zh,一个人用双手向上走四步 双手向上走四步 当他们爬上楼梯时 轻轻的向前倾斜 当他们停止上楼梯时,100,25,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair64_clip_zh_motion_263.npy
+clip,65,M004556,en,"someone walks forward and to the left, then stands looking straight ahead.",152,38,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair65_clip_en_motion_263.npy
+clip,65,M004556,zh,"有人向前走,然后向左走,然后直视前方。",164,41,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair65_clip_zh_motion_263.npy
+clip,67,002542,en,person standing bends forward slightly to right to pick something up with both hands and moves item slightly to the left,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair67_clip_en_motion_263.npy
+clip,67,002542,zh,"人站立时向右稍微弯曲,用双手拿东西,向左稍微移动物品。",116,29,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair67_clip_zh_motion_263.npy
+clip,68,M013735,en,a person giving a round of applause,40,10,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair68_clip_en_motion_263.npy
+clip,68,M013735,zh,给予热烈掌声的人,108,27,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair68_clip_zh_motion_263.npy
+clip,73,M012579,en,"a person steps forward, then kneels down using their right hand for support.",152,38,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair73_clip_en_motion_263.npy
+clip,73,M012579,zh,"一个人向前走,然后跪下,用右手求得支持。",108,27,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair73_clip_zh_motion_263.npy
+clip,75,010586,en,"a person sit on the floor, while cross both legs",112,28,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair75_clip_en_motion_263.npy
+clip,75,010586,zh,"一人坐在地板上,两腿交叉",176,44,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair75_clip_zh_motion_263.npy
+clip,76,M003752,en,a man is doing jumping jacks.,76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair76_clip_en_motion_263.npy
+clip,76,M003752,zh,一个男人在做跳跃插孔。,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair76_clip_zh_motion_263.npy
+clip,77,M003784,en,a person walks around in a circle.,128,32,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair77_clip_en_motion_263.npy
+clip,77,M003784,zh,一个人环绕圈子走来走去。,136,34,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair77_clip_zh_motion_263.npy
+clip,78,M004346,en,stick person looks as if to be treading water in the befgining and then puts arms up as if to flex and then mobes arms back,160,40,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair78_clip_en_motion_263.npy
+clip,78,M004346,zh,"棍棒人看起来像是 脚踏水 在树枝中,然后举起手臂 举起手来似乎 伸动,然后动员 手臂后退",104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair78_clip_zh_motion_263.npy
+clip,80,M012981,en,a man is waving both arms above his head 6 times.,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair80_clip_en_motion_263.npy
+clip,80,M012981,zh,一个人在头顶上挥动了六下双臂,104,26,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair80_clip_zh_motion_263.npy
+clip,83,002922,en,someone completes a full jumping jack before stopping.,44,11,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair83_clip_en_motion_263.npy
+clip,83,002922,zh,某人在停止前完成全面跳跃 。,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair83_clip_zh_motion_263.npy
+clip,85,014499,en,a person remained sitting down.,40,10,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair85_clip_en_motion_263.npy
+clip,85,014499,zh,一个人仍然坐着。,136,34,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair85_clip_zh_motion_263.npy
+clip,86,003039,en,"a man walks forward and picks up an object with his right hand, then puts the object back down and steps backward.",100,25,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair86_clip_en_motion_263.npy
+clip,86,003039,zh,"一个人走过去,用右手拿起一个物体,然后把物体放下,后退。",80,20,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair86_clip_zh_motion_263.npy
+clip,88,000063,en,"a person reaches down with the left arm. the person then reaches out with right arm and begins a scratching, rotating motion.",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair88_clip_en_motion_263.npy
+clip,88,000063,zh,"一个人用左臂伸向下,然后用右臂伸向外,开始刮伤,旋转运动。",168,42,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair88_clip_zh_motion_263.npy
+clip,90,M003886,en,"walked left then went up  ladder, holding on with both arms then reached with left arm to grab something",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair90_clip_en_motion_263.npy
+clip,90,M003886,zh,"向左走左走,然后上梯子,两只手牵着两只胳膊,然后用左手伸到左手抓住东西。",76,19,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair90_clip_zh_motion_263.npy
+clip,91,M009041,en,a person does a throwing motion with his left arm,112,28,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair91_clip_en_motion_263.npy
+clip,91,M009041,zh,一个人用左臂投球,152,38,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair91_clip_zh_motion_263.npy
+clip,95,001320,en,a person clasps their arms after shifting temporarily to the right.,72,18,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair95_clip_en_motion_263.npy
+clip,95,001320,zh,一个人在暂时向右移动后拍拍他们的手臂。,192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair95_clip_zh_motion_263.npy
+clip,97,M013388,en,person is walking backwards at medium pace,100,25,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair97_clip_en_motion_263.npy
+clip,97,M013388,zh,以中等速度向后走,124,31,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair97_clip_zh_motion_263.npy
+clip,98,M001598,en,"a person brings their right hand up to touch their mouth, returns their arm to the side, then swings both arms simultaneously up and away from them.",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair98_clip_en_motion_263.npy
+clip,98,M001598,zh,"一个人举起右手触摸自己的嘴,把手臂伸到一边,然后双臂同时向上和向外挥动。",192,48,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair98_clip_zh_motion_263.npy
+clip,99,003849,en,a person brings their right arm back then swings it rapidly forward in a throwing motion,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair99_clip_en_motion_263.npy
+clip,99,003849,zh,一个人的右臂 回到右臂 然后挥动它 快速向前,96,24,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair99_clip_zh_motion_263.npy
+clip,100,004157,en,"a person stands from the ground, takes left foot up, sets back down, does the same on the right side.",60,15,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair100_clip_en_motion_263.npy
+clip,100,004157,zh,一个人站在地上 左脚抬起来 后退 右侧也这样,120,30,output_eval_bilingual/HML3D_TEST100_EN_ZH_LAST2_20260419_144426/motions/pair100_clip_zh_motion_263.npy

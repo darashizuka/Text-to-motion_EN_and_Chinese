@@ -1,0 +1,2 @@
+standard_method,compare_method,delta_text_pair_cos_mean,delta_motion_pair_cos_mean,delta_motion_pair_mse_mean,delta_frame_gap_mean,delta_motion_embedding_diversity_l2
+clip,mbert,0.17742799388037778,0.22351418518357802,0.01670640684595262,3.037037037037038,-0.041748046875

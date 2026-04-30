@@ -12,7 +12,9 @@ Text Prompt (any language) → mT5 Encoder → GPT-2 Decoder → VQ-VAE Decoder 
 - **GPT-2 Decoder** — Autoregressively generates discrete motion tokens from text embeddings
 - **VQ-VAE Decoder** — Decodes token sequences into continuous 263-dim motion features (pre-trained, frozen)
 
-## Results (MT5)
+## Results 
+
+### MT5
 
 Evaluated on the HumanML3D test set (averaged over 5 runs):
 
@@ -24,6 +26,16 @@ Evaluated on the HumanML3D test set (averaged over 5 runs):
 | R@3 | 0.1036 ± 0.0046 |
 | Diversity | 10.2409 ± 0.1629 |
 | Matching Score | 2.9582 ± 0.0259 |
+
+### mBERT
+| Metric | Score |
+|--------|-------|
+| FID | 0.07336 |
+| R@1 | 0.50744|
+| R@2 | 0.71763 |
+| R@3 | 0.80543 |
+| Diversity | 10.220685 |
+| Matching Score | 2.855296 |
 
 ## Setup
 

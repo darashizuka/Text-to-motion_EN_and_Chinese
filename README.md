@@ -37,6 +37,16 @@ Evaluated on the HumanML3D test set (averaged over 5 runs):
 | Diversity | 10.220685 |
 | Matching Score | 2.855296 |
 
+### BiLSTM
+| Metric | Score |
+|--------|-------|
+| FID | 1.724  |
+| R@1 | 0.256 |
+| R@2 | 0.41  |
+| R@3 | 0.528  |
+| Diversity | 7.1766  |
+| Matching Score | 4.21 |
+
 ## Setup
 
 **Prerequisites:** Python 3.11+, PyTorch with CUDA, HuggingFace Transformers
